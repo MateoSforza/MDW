@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# Documentation
+GUIA_ROUTING_COMPLETA.txt
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
